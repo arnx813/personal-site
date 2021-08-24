@@ -24,9 +24,9 @@ function App() {
 
       <Typography color="primary" variant="h2" style={{ paddingTop: "5rem"}}>yo, im aaron.</Typography>
       <Typography color="primary" variant="h6" style={{ paddingTop: "2rem"}}>im building things. im exploring product, art, & design. im interning at b2b saas startups. im reading a lot. im studying cs & philosophy at dartmouth. and more.</Typography>
-      <Typography color="primary" variant="h6" style={{ paddingTop: "2rem"}}>- cv (not ready)</Typography>
-      <Typography color="primary" variant="h6" style={{ paddingTop: "1rem"}}>- <Link href="https://www.linkedin.com/in/aaron-xie-384a12113/">linkedin</Link></Typography>
-      <Typography color="primary" variant="h6" style={{ paddingTop: "1rem"}}>- <Link href="mailto:aaron">say hi</Link></Typography>
+      <Typography color="primary" variant="h6" style={{ paddingTop: "2rem"}}>- <Link target="_blank" href="https://drive.google.com/file/d/1zgQnC4p2jTH-wbibQ3wk0-07L29it_zP/view?usp=sharing">cv</Link></Typography>
+      <Typography color="primary" variant="h6" style={{ paddingTop: "1rem"}}>- <Link target="_blank" href="https://www.linkedin.com/in/aaron-xie-384a12113/">linkedin</Link></Typography>
+      <Typography color="primary" variant="h6" style={{ paddingTop: "1rem"}}>- <Link target="_blank" href="mailto:aaron">say hi</Link></Typography>
 
 
 
